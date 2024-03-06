@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-  <Transactions>
-    <Transaction>2024.02.26 05:17:36.051,=D:\Phoenix\testpas\Unit1.pas</Transaction>
-    <Transaction>2024.02.26 05:31:10.906,D:\Phoenix\testpas\TestData.dfm=D:\Phoenix\testpas\Unit1.dfm</Transaction>
-    <Transaction>2024.02.26 05:31:10.906,D:\Phoenix\testpas\TestData.pas=D:\Phoenix\testpas\Unit1.pas</Transaction>
-    <Transaction>2024.02.26 06:20:51.023,D:\Phoenix\testpas\Project1.dproj=D:\Phoenix\testpas\Project1.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
